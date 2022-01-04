@@ -1,0 +1,22 @@
+{
+  "name": "barasho",
+  "version": "1.0.0",
+  "description": "barashada node,js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohiaden"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Mohiaden Mohamooud Muxudiinkeey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
